@@ -29,7 +29,11 @@
 - [Design Inspiration](#Design-inspiration)
 - [Image Compression](#Image-compression)
 - [Others](#others)
-
+## Animating
+>resource for animated framework
+| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
+| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| [Aos](https://github.com/michalsnik/aos/)                                                            | Awesome animating engine for Components of all types         
 ## UI Graphics
 
 >Websites and resources with modern UI components in different formats such as PSD, Sketch, Figma, etc. They are great for ideas for web components/UI
